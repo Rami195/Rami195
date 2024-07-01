@@ -19,11 +19,17 @@ Enlace: https://rami195.github.io/PortafolioRM/
 HABILIDADES
 
 C#
+
 Python
+
 Java
+
 SQL
+
 HTML5
+
 CSS3
+
 
 CONTACTO
 
