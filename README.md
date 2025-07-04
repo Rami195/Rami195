@@ -15,8 +15,8 @@ Desde joven me fascinó la tecnología y su capacidad de transformar el mundo. G
 ### 🗂️ Mi Portafolio
 
 📌 **Descripción:** Portafolio personal donde muestro mis proyectos y habilidades como desarrollador.  
-🛠️ **Tecnologías:** HTML5, CSS3, Bootstrap, JavaScript  
-🔗 **Enlace:** [Ver Portafolio](https://rami195.github.io/PortafolioRM/)
+🛠️ **Tecnologías:** HTML5, CSS3, Tailwind, JavaScript  
+🔗 **Enlace:** [Ver Portafolio]([https://rami195.github.io/PortafolioRM/](https://portafolio-rm-kappa.vercel.app/))
 
 ---
 
