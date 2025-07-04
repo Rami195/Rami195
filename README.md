@@ -1,37 +1,51 @@
-BIENVENIDO A MI PERFIL DE GITHUB
+# 👋 ¡Hola, soy Ramiro! 💻
 
-¡Hola! Soy Ramiro, un estudiante de Ingeniería en Sistemas de a facultad UTN FRM. Aquí encontrarás una muestra de mi proyecto de portafolio y algunas de mis habilidades.
+🎓 Soy estudiante de Ingeniería en Sistemas en la UTN FRM. Apasionado por el desarrollo de software y el diseño web, siempre busco aprender y mejorar mis habilidades técnicas para crear soluciones innovadoras.
 
-ACERCA DE MI
+---
 
-Soy un estudiante  de ingeniería en sistemas con una pasión por el desarrollo de software y diseño web.he estado fascinado por la tecnología y su capacidad para transformar
-el mundo. Esta fascinación me llevó a seguir una carrera en ingeniería, donde he podido combinar mi creatividad con habilidades técnicas para crear soluciones innovadoras. 
-Estoy en constante aprendizaje y siempre buscando mejorar mis habilidades.
+## 🚀 Sobre mí
 
-PROYECTO DESTACADO
+Desde joven me fascinó la tecnología y su capacidad de transformar el mundo. Gracias a eso, hoy combino creatividad y lógica en el desarrollo de software. Me interesa el trabajo en equipo, la mejora continua y los proyectos desafiantes.
 
-Mi Portafolio
+---
 
-Descripción: Mi portafolio, donde muestro mis habilidades y proyectos como estudiante de desarrollo web.
-Tecnologías utilizadas: HTML5, CSS3, Bootstrap, JavaScript.
-Enlace: https://rami195.github.io/PortafolioRM/
+## 🌟 Proyecto Destacado
 
-HABILIDADES
+### 🗂️ Mi Portafolio
 
-- C#
-- Python
-- Java
-- SQL
-- HTML5
-- CSS3
+📌 **Descripción:** Portafolio personal donde muestro mis proyectos y habilidades como desarrollador.  
+🛠️ **Tecnologías:** HTML5, CSS3, Bootstrap, JavaScript  
+🔗 **Enlace:** [Ver Portafolio](https://rami195.github.io/PortafolioRM/)
 
-CONTACTO
+---
 
-Si estás interesado en colaborar en un proyecto o simplemente quieres saludar, no dudes en ponerte en contacto conmigo.
+## 💻 Tech Stack
 
-Email: ramiromartinez3596@gmail.com
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Lenguajes
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 📫 Contacto
+
+💌 **Email:** [ramiromartinez3596@gmail.com](mailto:ramiromartinez3596@gmail.com)
+
+---
 
 <!---
-Rami195/Rami195 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Rami195/Rami195 es un repositorio especial porque su `README.md` se muestra en tu perfil de GitHub.
 --->
